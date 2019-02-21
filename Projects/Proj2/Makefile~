@@ -1,0 +1,2 @@
+test.o: driver2.cpp Sally.cpp Sally.h
+	g++ driver2.cpp Sally.cpp -o test.o

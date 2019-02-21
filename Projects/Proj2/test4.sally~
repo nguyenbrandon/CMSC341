@@ -1,0 +1,7 @@
+0 j SET
+
+DO
+
+  j @ 1 + j !    // j++
+  j @ . CR       // print j
+

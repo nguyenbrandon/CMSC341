@@ -1,0 +1,10 @@
+3 7 > IFTHEN
+  ."Marker1". CR
+ELSE
+  ."Success". CR
+  5 7 < IFTHEN
+    ."Marker2". CR
+    ELSE
+    ."Marker3". CR
+    ENDIF
+ENDIF
